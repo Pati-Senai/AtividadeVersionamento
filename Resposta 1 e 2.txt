@@ -5,4 +5,4 @@ R= É uma revisão onde  o repositorio envia para todas as  alterações mostrando ,
 
 2-Para que serve o botão Sync da ferramenta do GitHub.
 
-R= É uma ferramenta que ajuda a  atualiza e  sicronizar  o documento.
+R= É um botão de publicar as alterações e atualiza e  sicronizar.
