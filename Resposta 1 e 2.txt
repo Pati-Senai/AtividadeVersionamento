@@ -1,0 +1,8 @@
+1-PARA QUE SERVE O COMMIT
+
+R= É uma revisão onde envia para o repositorio todas asa alterações mostrando ,quem ,quando foi enviado
+
+
+2-Para que serve o botão Sync da ferramenta do GitHub.
+
+R= É uma ferramenta que ajuda a sicronizar e atualizar o documento.
